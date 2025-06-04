@@ -23,7 +23,7 @@ body {
 
 
 .contenedor {
-  background-color: rgba(255, 255, 255, 0.6); /* Blanco con 90% de opacidad */
+  background-color: rgba(255, 255, 255, 0.6); /* Blanco con 60% de opacidad */
   padding: 30px;
   border-radius: 12px;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
@@ -62,7 +62,7 @@ input.error {
 
 button {
   padding: 10px 16px;
-  background-color: #1c8e6f;
+  background-color: #05251d;
   color: white;
   border: none;
   border-radius: 8px;
@@ -130,3 +130,4 @@ button:hover {
   from { opacity: 0; transform: translateY(-10px); }
   to { opacity: 1; transform: translateY(0); }
 }
+  
